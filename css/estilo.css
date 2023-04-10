@@ -5,3 +5,6 @@ body{
 h1, p{
     font-style: italic;
     color: white;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
