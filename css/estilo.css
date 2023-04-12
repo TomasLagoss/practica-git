@@ -8,3 +8,7 @@ h1, p{
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+Li{
+    list-style: none;
+}
