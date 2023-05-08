@@ -1,0 +1,40 @@
+.navbar-brand{
+margin-left: 5rem;
+
+}
+
+.navbar-nav{
+  margin-left: 13rem;
+
+}
+
+.colorverde{
+color: #2CA643 !important;
+}
+
+.imagen1{
+  width: 100px;
+  height: 100px;
+}
+
+a{
+  color: green;
+}
+
+.card-margin {
+  margin-right: 30px;
+}
+
+.titulo{
+  margin-right: 50rem;
+}
+
+.btn-success{
+  color: greenyellow
+}
+
+h3{
+  font-size: 35px;
+}
+
+
